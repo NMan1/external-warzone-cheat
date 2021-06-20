@@ -8,6 +8,10 @@ modern wareafee or warzone or blizzardds whatever their anti cheat is not very g
 esp is very basic but u can expand it if u want there is a draw box function.
 no recoil is commented out cuz offset not work but if u want to ad that probaly just create a new thread so esp and recoil are sepreate.
 
+DEL key unoads overlay and cheat.
+
+Compile x64 release, kdmapper driver. Run modern_wareafre_client.exe when in game
+
 # Vids
 
 https://user-images.githubusercontent.com/44145464/122661983-2b12a680-d155-11eb-844f-a86223c0f5a0.mp4
